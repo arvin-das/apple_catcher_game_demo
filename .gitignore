@@ -1,0 +1,15 @@
+data/*
+old_data/*
+giga_mat_files/*
+figures/*
+mne_data/*
+*.ipynb
+.venv
+__pycache__/
+*.pyc
+*.pyo
+accuracy_plot.pdf
+channel_locations.png
+
+export.txt
+list_py_files.sh
